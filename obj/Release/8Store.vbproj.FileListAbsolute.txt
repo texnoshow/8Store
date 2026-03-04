@@ -1,0 +1,10 @@
+c:\users\guli_\onedrive\документы\visual studio 2013\Projects\8Store\8Store\bin\Release\8Store.exe.config
+c:\users\guli_\onedrive\документы\visual studio 2013\Projects\8Store\8Store\bin\Release\8Store.exe
+c:\users\guli_\onedrive\документы\visual studio 2013\Projects\8Store\8Store\bin\Release\8Store.pdb
+c:\users\guli_\onedrive\документы\visual studio 2013\Projects\8Store\8Store\bin\Release\8Store.xml
+c:\users\guli_\onedrive\документы\visual studio 2013\Projects\8Store\8Store\obj\Release\_8Store.Form1.resources
+c:\users\guli_\onedrive\документы\visual studio 2013\Projects\8Store\8Store\obj\Release\_8Store.Resources.resources
+c:\users\guli_\onedrive\документы\visual studio 2013\Projects\8Store\8Store\obj\Release\8Store.vbproj.GenerateResource.Cache
+c:\users\guli_\onedrive\документы\visual studio 2013\Projects\8Store\8Store\obj\Release\8Store.exe
+c:\users\guli_\onedrive\документы\visual studio 2013\Projects\8Store\8Store\obj\Release\8Store.xml
+c:\users\guli_\onedrive\документы\visual studio 2013\Projects\8Store\8Store\obj\Release\8Store.pdb
