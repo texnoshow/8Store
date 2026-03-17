@@ -1,0 +1,40 @@
+C:\8Store (beta)\8Store (beta)\bin\Release\Assets\Wide310x150Logo.png
+C:\8Store (beta)\8Store (beta)\bin\Release\App.xbf
+C:\8Store (beta)\8Store (beta)\bin\Release\MainPage.xbf
+C:\8Store (beta)\8Store (beta)\bin\Release\8Store (beta).xr.xml
+C:\8Store (beta)\8Store (beta)\bin\Release\8Store (beta).exe
+C:\8Store (beta)\8Store (beta)\bin\Release\8Store (beta).pdb
+C:\8Store (beta)\8Store (beta)\bin\Release\_8Store__beta_.xml
+C:\8Store (beta)\8Store (beta)\bin\Release\resources.pri
+C:\8Store (beta)\8Store (beta)\bin\Release\AppxManifest.xml
+C:\8Store (beta)\8Store (beta)\bin\Release\8Store (beta).build.appxrecipe
+C:\8Store (beta)\8Store (beta)\obj\Release\App.g.i.vb
+C:\8Store (beta)\8Store (beta)\obj\Release\App.g.vb
+C:\8Store (beta)\8Store (beta)\obj\Release\MainPage.g.i.vb
+C:\8Store (beta)\8Store (beta)\obj\Release\MainPage.g.vb
+C:\8Store (beta)\8Store (beta)\obj\Release\XamlTypeInfo.g.vb
+C:\8Store (beta)\8Store (beta)\obj\Release\App.xaml
+C:\8Store (beta)\8Store (beta)\obj\Release\MainPage.xaml
+C:\8Store (beta)\8Store (beta)\obj\Release\App.xbf
+C:\8Store (beta)\8Store (beta)\obj\Release\MainPage.xbf
+C:\8Store (beta)\8Store (beta)\obj\Release\XamlSaveStateFile.xml
+C:\8Store (beta)\8Store (beta)\obj\Release\8Store (beta).exe
+C:\8Store (beta)\8Store (beta)\obj\Release\_8Store__beta_.xml
+C:\8Store (beta)\8Store (beta)\obj\Release\8Store (beta).pdb
+C:\8Store (beta)\8Store (beta)\obj\Release\priconfig.xml
+C:\8Store (beta)\8Store (beta)\obj\Release\priconfig.xml.intermediate
+C:\8Store (beta)\8Store (beta)\obj\Release\layout.resfiles
+C:\8Store (beta)\8Store (beta)\obj\Release\layout.resfiles.intermediate
+C:\8Store (beta)\8Store (beta)\obj\Release\resources.resfiles
+C:\8Store (beta)\8Store (beta)\obj\Release\resources.resfiles.intermediate
+C:\8Store (beta)\8Store (beta)\obj\Release\pri.resfiles
+C:\8Store (beta)\8Store (beta)\obj\Release\pri.resfiles.intermediate
+C:\8Store (beta)\8Store (beta)\obj\Release\qualifiers.txt
+C:\8Store (beta)\8Store (beta)\obj\Release\qualifiers.txt.intermediate
+C:\8Store (beta)\8Store (beta)\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\8Store (beta)\8Store (beta)\obj\Release\ProjectArchitectures.txt
+C:\8Store (beta)\8Store (beta)\bin\Release\StoreSettings.xbf
+C:\8Store (beta)\8Store (beta)\obj\Release\StoreSettings.g.i.vb
+C:\8Store (beta)\8Store (beta)\obj\Release\StoreSettings.g.vb
+C:\8Store (beta)\8Store (beta)\obj\Release\StoreSettings.xaml
+C:\8Store (beta)\8Store (beta)\obj\Release\StoreSettings.xbf

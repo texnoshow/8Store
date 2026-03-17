@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GALINANEW</Machine>
+    <WindowsUser>guli_</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>78946b3f-9254-45d4-8256-a1d194b3d872</PackageIdentityName>
+    <IntermediateOutputPath>C:\8Store %28beta%29\8Store %28beta%29\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>4E0736F3A2232E8796DBE7B64253856237BDC255357A62B66455EB1E9785F281</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>78946b3f-9254-45d4-8256-a1d194b3d872_1.0.0.0_neutral__1j7d8r3h7w8r4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>78946b3f-9254-45d4-8256-a1d194b3d872_1j7d8r3h7w8r4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>78946b3f-9254-45d4-8256-a1d194b3d872</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Texno</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\8Store %28beta%29\8Store %28beta%29\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-03-17T12:54:17.565</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\bin\Release\8Store %28beta%29.exe">
+      <PackagePath>8Store %28beta%29.exe</PackagePath>
+      <Modified>2026-03-17T13:12:50.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-01-05T11:37:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-01-05T11:37:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-01-05T11:37:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\spotlight_test.png">
+      <PackagePath>Assets\spotlight_test.png</PackagePath>
+      <Modified>2026-01-05T11:37:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <Modified>2026-01-05T11:37:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\Square70x70Logo.png">
+      <PackagePath>Assets\Square70x70Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-03-17T11:57:52.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\Store.png">
+      <PackagePath>Assets\Store.png</PackagePath>
+      <Modified>2026-01-05T11:37:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\Store1.png">
+      <PackagePath>Assets\Store1.png</PackagePath>
+      <Modified>2026-01-05T11:37:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-03-17T12:01:14.997</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\unusedV2.png">
+      <PackagePath>Assets\unusedV2.png</PackagePath>
+      <Modified>2026-01-05T11:37:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\Wide310x150Logo.png">
+      <PackagePath>Assets\Wide310x150Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2026-03-17T11:56:46.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2026-03-17T12:31:35.755</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2026-03-17T13:12:49.643</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\bin\Release\StoreSettings.xbf">
+      <PackagePath>StoreSettings.xbf</PackagePath>
+      <Modified>2026-03-17T13:09:45.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\bin\Release\8Store %28beta%29.xr.xml">
+      <PackagePath>8Store %28beta%29.xr.xml</PackagePath>
+      <Modified>2026-03-17T13:09:45.489</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2026-03-17T12:54:17.272</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

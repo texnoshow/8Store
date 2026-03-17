@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GALINANEW</Machine>
+    <WindowsUser>guli_</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>78946b3f-9254-45d4-8256-a1d194b3d872</PackageIdentityName>
+    <IntermediateOutputPath>C:\8Store %28beta%29\8Store %28beta%29\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\8Store %28beta%29\8Store %28beta%29\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\bin\Release\8Store %28beta%29.exe">
+      <PackagePath>8Store %28beta%29.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\spotlight_test.png">
+      <PackagePath>Assets\spotlight_test.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\Square70x70Logo.png">
+      <PackagePath>Assets\Square70x70Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\Store.png">
+      <PackagePath>Assets\Store.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\Store1.png">
+      <PackagePath>Assets\Store1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\unusedV2.png">
+      <PackagePath>Assets\unusedV2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\Assets\Wide310x150Logo.png">
+      <PackagePath>Assets\Wide310x150Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\bin\Release\StoreSettings.xbf">
+      <PackagePath>StoreSettings.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\bin\Release\8Store %28beta%29.xr.xml">
+      <PackagePath>8Store %28beta%29.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\8Store %28beta%29\8Store %28beta%29\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

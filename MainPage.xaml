@@ -1,0 +1,55 @@
+﻿<Page
+    x:Class="_8Store__beta_.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_8Store__beta_">
+
+    <Grid Background="#FF1D1D1D">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Background="#CC008A00" Canvas.ZIndex="2">
+            <StackPanel Orientation="Horizontal" Margin="40,0">
+                <TextBlock Text="8Store beta" VerticalAlignment="Center" Foreground="White" FontSize="32" FontWeight="SemiLight"/>
+
+                <Button x:Name="PickFolderButton" 
+                        Visibility="Collapsed"
+                        Click="PickFolderButton_Click" 
+                        Margin="40,0,0,0" Height="45" Padding="15,0"
+                        Background="#FF005A00" BorderBrush="White" BorderThickness="1" 
+                        Foreground="White" VerticalAlignment="Center">
+                    <StackPanel Orientation="Horizontal">
+                        <SymbolIcon Symbol="Setting" Margin="0,0,10,0"/>
+                        <TextBlock Text="Настройки" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Row="1" Canvas.ZIndex="1">
+            <Grid.Background>
+                <ImageBrush ImageSource="ms-appx:///Assets/Store.png" Stretch="UniformToFill" Opacity="1.0"/>
+            </Grid.Background>
+
+            <ProgressBar x:Name="LoadingBar" IsIndeterminate="True" VerticalAlignment="Top" Visibility="Collapsed" Foreground="Black"/>
+
+            <ListView x:Name="AppList" ItemsSource="{Binding StaffPicks}" IsItemClickEnabled="True" ItemClick="ListView_ItemClick" Margin="40,20,40,0">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal" Margin="0,0,0,25">
+                            <Border Background="#CC008A00" Width="70" Height="70" CornerRadius="2">
+                                <Image Source="{Binding IconUrl}" Stretch="Uniform" Margin="8"/>
+                            </Border>
+                            <StackPanel Margin="20,0,0,0" VerticalAlignment="Center">
+                                <TextBlock Text="{Binding Name}" FontSize="24" Foreground="Black" FontWeight="SemiBold"/>
+                                <TextBlock Text="{Binding Category}" FontSize="16" Foreground="Black" FontWeight="Normal"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Grid>
+    </Grid>
+</Page>
